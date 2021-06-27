@@ -1,22 +1,22 @@
-# A Practical Introduction to Prisma
+# Eine praktische Einführung in Prisma
 
-This repository contains the starter project for the **A Practical Introduction to Prisma** workshop by [Nikolas Burk](https://twitter.com/nikolasburk).
+Dieses Repository enthält das Starterprojekt für den **Eine praktische Einführung in Prisma** Workshop von Carmen Berndt.
 
 ## Setup
 
-### 1. Clone this repository
+### 1. Klone dieses Repository
 
-You can clone this repository with the following command:
+Mithife dem folgenden Befehl kannst du dieses Repository klonen:
 
 ```
-git clone git@github.com:nikolasburk/prisma-workshop.git
+git clone git@github.com:carmenberndt/prisma-workshop.git
 ```
 
-> Alternatively, you can also download the project via the GitHub UI. Click the green **Code**-button in the top-right corner and then click on **Download ZIP**.
+> Alternativ kannst du dieses Projekt auf über die Github UI herunterladen. Klicke die **Code**-Taste in the oberen rechten Ecke und klicke dann auf **Download ZIP**.
 
-### 2. Install dependencies
+### 2. Installiere alle Dependencies
 
-Navigate into the project directory and install the npm dependencies with the following command:
+Navigiere dann in den Projektordner und installiere alle Dependencies mit dem folgenden Befehl:
 
 ```
 cd prisma-workshop
@@ -25,4 +25,4 @@ npm install
 
 ## Workshop
 
-You can find all the info for following the workshop [here](https://www.notion.so/prismaio/A-Practical-Introduction-to-Prisma-2021-ccf00a066ef4432caeb03da179e38302).
+Alle Informationen rund um den Workshop findest du [hier](https://www.notion.so/prismaio/Eine-praktische-Einf-hrung-in-Prisma-2021-175b6ec557f045d398236939cac3a9c4).
