@@ -67,13 +67,13 @@ Zum Schluss behandeln wir, wie du mit Prisma Client die Resolver einer GraphQL-A
 
 # Lektionen
 
-[1. Prisma aufsetzen](https://www.notion.so/1-Prisma-aufsetzen-fe8c6be9350a42b6b46413cbabc233a1?pvs=21)
+[1. Prisma aufsetzen](1-prisma-aufsetzen.md)
 
-[2. Prisma Client kennenlernen](https://www.notion.so/2-Prisma-Client-kennenlernen-f8d0b0133e54438a99c5e289a384ac57?pvs=21)
+[2. Prisma Client kennenlernen](2-prisma-client.md)
 
-[3. REST API](https://www.notion.so/3-REST-API-e710582940ac4192a54effab8b353e66?pvs=21)
+[3. REST API](3-rest-api.md)
 
-[4. GraphQL API](https://www.notion.so/4-GraphQL-API-9b41e2730afc49939b1d3280add9a87e?pvs=21)
+[4. GraphQL API](4-graphql-api.md)
 
 # Wie sieht eine Lektion aus?
 
